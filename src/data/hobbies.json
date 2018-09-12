@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Working Out",
+    "img":"workingout.png",
+    "external_url": null
+  },
+  {
+    "name": "Space Exploration",
+    "img":"nasa-logo.png",
+    "external_url": null
+  },
+  {
+    "name": "Medicine",
+    "img": "med.png",
+    "external_url": null
+  },
+  {
+    "name": "ScFi",
+    "img": "scfi.png",
+    "external_url":null
+  },
+  {
+    "name": "My Bunny",
+    "img": "rabbit.png",
+    "external_url": null
+  },
+  {
+    "name": "The Beach",
+    "img": "beach.png",
+    "external_url": null
+  }
+  
+]

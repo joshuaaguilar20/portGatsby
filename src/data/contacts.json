@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Github",
+    "icon": "github",
+    "type": "social-media",
+    "url": "https://github.com/joshuaaguilar20"
+  },
+  {
+    "name": "Medium",
+    "icon": "medium",
+    "type": "social-media",
+    "url": "https://medium.com/joshua-aguilar-rn"
+  },
+  {
+    "name": "Instagram",
+    "icon": "instagram",
+    "type": "social-media",
+    "url": "https://www.instagram.com/josha2013/?hl=en"
+  },
+  {
+    "name": "Instagram",
+    "icon": "linkedin",
+    "type": "social-media",
+    "url": "https://www.linkedin.com/in/joshua-aguilar-bb924641/"
+  },
+  {
+    "name": "Email",
+    "icon": "envelope",
+    "type": "email",
+    "url": "https://mailto:joshuaaguilar20@gmail.com"
+  }
+]
