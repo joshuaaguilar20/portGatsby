@@ -36,7 +36,6 @@ class Projects extends Component {
               >
                 <option value="front-end">Front End</option>
                 <option value="back-end">Back End</option>
-                <option value="react">React</option>
               </FormControl>
             </FormGroup>
           </div>

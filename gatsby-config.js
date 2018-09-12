@@ -5,7 +5,7 @@ module.exports = {
       "The ones who are crazy enough to think they can change the world, are the ones that do",
     siteUrl: "https://joshuaaguilar.me",
     author: "Joshua Aguilar",
-    twitter: "maribeldotduran"
+    twitter: ""
   },
   plugins: [
     {

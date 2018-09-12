@@ -1,10 +1,70 @@
 [
   {
-    "name": "EmpowerHer:SF",
-    "type": "front-end",
-    "description": "EmpowerHerSF focuses on providing Human Trafficking awareness and funding to local SF women shelters. The website matches you with local shelters that need items that you have available to donate.",
-    "img": "EmpowerHerSF_cover.png",
-    "url": "https://maribelduran.github.io/Hacking4Humanity2017/web/index.html"
-  }
+    "name":"React Ios Calculator",
+    "type":"front-end",
+    "description":"React Calculator (no Eval Function :))",
+    "img":"screen.png",
+    "url":"https://reactcalfinal.herokuapp.com/"
+  },
+  {
+    
+      "name":"React Indecision",
+      "type":"front-end",
+      "description":"Put your hands in the life of a computer. Saves to local storage",
+      "img":"ind.png",
+      "url":"https://calm-atoll-86375.herokuapp.com/"
+    },
+  {
+    "name":"React palindrome clock ",
+    "type":"front-end",
+    "description":"Palindrome clock with draggable elements",
+    "img":"timer.png",
+    "url":"https://timerp.herokuapp.com/"
+  },
+  {
+    "name":"React Drum Set",
+    "type":"front-end",
+    "description":"Frist React Project",
+    "img":"drum.png",
+    "url":"https://reactdrumset1.herokuapp.com/"
+  },
+ 
+  {
+    "name":"Wiki Search Page",
+    "type":"front-end",
+    "description":"Uses Wiki Api. Build on bootstrap and Jquery built in predictive text",
+    "img":"wiki.png",
+    "url":"https://joshuaaguilar20.github.io/wiki10/"
+  },{
+    "name":" React Pig Latin",
+    "type":"front-end",
+    "description":"Uses Pig Latin algorithm and demonstrates knowlege of RegEx ",
+    "img":"pig.png",
+    "url":"https://pig-latin-react.herokuapp.com/"
+  },
+  {
+    "name":"RGB color Game",
+    "type":"front-end",
+    "description":"Vanilla JS RGB color game",
+    "img":"rgb.png",
+    "url":"https://joshuaaguilar20.github.io/RGB/"
+  },
+  {
+  "name":"Random Quote Generator",
+  "type":"front-end",
+  "description":"Frist Project",
+  "img":"ran.png",
+  "url":"https://joshuaaguilar20.github.io/randomquote/"
+  },
+  {
+    "name":"Weather Api",
+    "type":"front-end",
+    "description":"Uses geolocation and fetches weather Api based on location",
+    "img":"weather.png",
+    "url":"https://joshuaaguilar20.github.io/weatherAPI/"
+    }
+   
+  
+
    
 ]

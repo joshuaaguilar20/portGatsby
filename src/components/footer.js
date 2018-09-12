@@ -4,7 +4,7 @@ import "./footer.css";
 const Footer = () => (
   <footer>
     <div>
-      Joshua Aguilar 2018
+      Joshua Aguilar
     </div>
   </footer>
 );

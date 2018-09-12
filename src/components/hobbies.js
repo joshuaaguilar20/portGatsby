@@ -4,7 +4,7 @@ import hobbyList from "../data/hobbies.json";
 const Hobbies = ({ icons }) => {
   return (
     <div>
-      <h4>interest</h4>
+      <h4>Intrest</h4>
       <p>
         {hobbyList.map((hobby, i) => {
           let isExternal = hobby.external_url;
