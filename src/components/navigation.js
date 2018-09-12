@@ -64,8 +64,8 @@ class Navigation extends Component {
 
     return (
       <Navbar className={whiteBackground} fixed={"top"} expand="md">
-        <NavbarBrand href="https://www.maribelduran.com/" className={fontColor}>
-          Joshua Aguilar RN BSN CEN
+        <NavbarBrand href="https://www.joshuaaguilar.me/" className={fontColor}>
+          Joshua Aguilar
         </NavbarBrand>
         <NavbarToggler onClick={this.toggleNavbar}>
           <i className={`fa fa-navicon ${fontColor}`} />
@@ -94,7 +94,7 @@ class Navigation extends Component {
             </NavItem>
             <NavItem onClick={this.handleCloseCollapse}>
               <NavLink
-                href="https://medium.com/@maribelduran"
+                href="https://medium.com/joshua-aguilar-rn"
                 target="_blank"
                 className="external-link"
                 rel="noopener noreferrer"

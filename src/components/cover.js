@@ -22,7 +22,7 @@ const Cover = ({ coverImg }) => (
       <h1 className="name">
         <b>Joshua Aguilar </b>
       </h1>
-      <p className="greetings">"The ones who are crazy enough to think they can change the world, are the ones that do."</p>
+      <p className="greetings">"The ones who are crazy enough to think they can change the world, are the ones that do.- Steve Jobs"</p>
     </div>
     <div className="arrow animated bounceInDown">
       <Scrollchor to="#about" className="btn" animate={{ duration: 500 }}>
