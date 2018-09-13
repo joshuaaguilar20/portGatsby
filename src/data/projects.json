@@ -62,7 +62,14 @@
     "description":"Uses geolocation and fetches weather Api based on location",
     "img":"weather.png",
     "url":"https://joshuaaguilar20.github.io/weatherAPI/"
-    }
+    },
+    {
+      "name":"Oauth Login and Stripe Payment",
+      "type":"back-end",
+      "description":"Uses Oauth for google login. Demonstrates Passport understand, along with tokens and Stripe API. Try out a charge with card number 4242-4242-4242-4242",
+      "img":"api.png",
+      "url":"https://reactexpnode.herokuapp.com/"
+      }
    
   
 
