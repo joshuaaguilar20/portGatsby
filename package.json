@@ -10,9 +10,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/maribelduran/personal-portfolio-v2.git"
+    "url": ""
   },
-  "author": "Maribel Duran",
+  "author": "Joshua Aguilar",
   "dependencies": {
     "ajv": "^6.5.3",
     "bootstrap": "^4.1.3",
