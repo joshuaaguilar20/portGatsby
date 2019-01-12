@@ -1,77 +1,72 @@
 [
   {
-    "name":"React Ios Calculator",
-    "type":"front-end",
-    "description":"React Calculator (no Eval Function :))",
-    "img":"screen.png",
-    "url":"https://reactcalfinal.herokuapp.com/"
+    "name": "React Ios Calculator",
+    "type": "front-end",
+    "description": "React Calculator (no Eval Function :))",
+    "img": "screen.png",
+    "url": "https://reactcalfinal.herokuapp.com/"
   },
   {
-    
-      "name":"React Indecision",
-      "type":"front-end",
-      "description":"Put your hands in the life of a computer. Saves to local storage",
-      "img":"ind.png",
-      "url":"https://calm-atoll-86375.herokuapp.com/"
-    },
-  {
-    "name":"React palindrome clock ",
-    "type":"front-end",
-    "description":"Palindrome clock with draggable elements",
-    "img":"timer.png",
-    "url":"https://timerp.herokuapp.com/"
+    "name": "React Indecision",
+    "type": "front-end",
+    "description": "Put your hands in the life of a computer. Saves to local storage",
+    "img": "ind.png",
+    "url": "https://calm-atoll-86375.herokuapp.com/"
   },
   {
-    "name":"React Drum Set",
-    "type":"front-end",
-    "description":"Frist React Project",
-    "img":"drum.png",
-    "url":"https://reactdrumset1.herokuapp.com/"
-  },
- 
-  {
-    "name":"Wiki Search Page",
-    "type":"front-end",
-    "description":"Uses Wiki Api. Build on bootstrap and Jquery built in predictive text",
-    "img":"wiki.png",
-    "url":"https://joshuaaguilar20.github.io/wiki10/"
-  },{
-    "name":" React Pig Latin",
-    "type":"front-end",
-    "description":"Uses Pig Latin algorithm and demonstrates knowlege of RegEx ",
-    "img":"pig.png",
-    "url":"https://pig-latin-react.herokuapp.com/"
+    "name": "Youtube No Adds ",
+    "type": "front-end",
+    "description": "my version of youtube with adds removed",
+    "img": "youtube.png",
+    "url": "http://youtube-app-novideoadds.s3-website-us-east-1.amazonaws.com/"
   },
   {
-    "name":"RGB color Game",
-    "type":"front-end",
-    "description":"Vanilla JS RGB color game",
-    "img":"rgb.png",
-    "url":"https://joshuaaguilar20.github.io/RGB/"
+    "name": "React Wedding WebSite",
+    "type": "front-end",
+    "description": "Frist React Project",
+    "img": "chaseval.png",
+    "url": "http://chase-val2019.s3-website-us-east-1.amazonaws.com"
   },
   {
-  "name":"Random Quote Generator",
-  "type":"front-end",
-  "description":"Frist Project",
-  "img":"ran.png",
-  "url":"https://joshuaaguilar20.github.io/randomquote/"
+    "name": "Wiki Search Page",
+    "type": "front-end",
+    "description": "Uses Wiki Api. Build on bootstrap and Jquery built in predictive text",
+    "img": "wiki.png",
+    "url": "https://joshuaaguilar20.github.io/wiki10/"
   },
   {
-    "name":"Weather Api",
-    "type":"front-end",
-    "description":"Uses geolocation and fetches weather Api based on location",
-    "img":"weather.png",
-    "url":"https://joshuaaguilar20.github.io/weatherAPI/"
-    },
-    {
-      "name":"Oauth Login and Stripe Payment",
-      "type":"back-end",
-      "description":"Uses Oauth for google login. Demonstrates Passport understand, along with tokens and Stripe API. Try out a charge with card number 4242-4242-4242-4242",
-      "img":"api.png",
-      "url":"https://reactexpnode.herokuapp.com/"
-      }
-   
-  
-
-   
+    "name": " React Pig Latin",
+    "type": "front-end",
+    "description": "Uses Pig Latin algorithm and demonstrates knowlege of RegEx ",
+    "img": "pig.png",
+    "url": "https://pig-latin-react.herokuapp.com/"
+  },
+  {
+    "name": "RGB color Game",
+    "type": "front-end",
+    "description": "Vanilla JS RGB color game (2nd project)",
+    "img": "rgb.png",
+    "url": "https://joshuaaguilar20.github.io/RGB/"
+  },
+  {
+    "name": "Random Quote Generator",
+    "type": "front-end",
+    "description": "Frist Project Ever",
+    "img": "ran.png",
+    "url": "https://joshuaaguilar20.github.io/randomquote/"
+  },
+  {
+    "name": "Weather Api",
+    "type": "front-end",
+    "description": "Uses geolocation and fetches weather Api based on location",
+    "img": "weather.png",
+    "url": "https://joshuaaguilar20.github.io/weatherAPI/"
+  },
+  {
+    "name": "Oauth Login and Stripe Payment",
+    "type": "back-end",
+    "description": "Uses Oauth for google login. Demonstrates Passport understand, along with tokens and Stripe API. Try out a charge with card number 4242-4242-4242-4242",
+    "img": "api.png",
+    "url": "https://reactexpnode.herokuapp.com/"
+  }
 ]
