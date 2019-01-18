@@ -21,8 +21,8 @@ const AboutMe = ({ profileImg, hobbyImgs }) => {
             <h3>My Current Plans</h3>
             <p>
             My goal as web developer is to help build applications that assist humanity. I want to help create more access to simple yet powerful code. I have always had a unique fascination with coding. After 5 years in the Emergency Department  I decided to chase my true passion of computer science. I quit my day job and started studying computer science daily. I could not afford a boot-camp so I spend every  day for 8 months coding, and finding mentors. I started by building every FreeCodeCamp project while simultaneously taking computer science, and algorithm courses . 
-            After building over 30 fullstack projects with guidance from a mentor I started contributing to open source projects. 
-            I then got involved with the FCC community as a moderator and mentor. 
+            After building over 30 fullstack projects with guidance from a Sr engineer. I started contributing to open source projects and 
+            I  got involved with the FCC community as a moderator, and mentor. 
             Shortly after I started taking projects for clients, and helping tutor students who are new to CS.
             After hearing feedback from students, I started an algorithms and data structures meet-up in northern California.   
             </p>
