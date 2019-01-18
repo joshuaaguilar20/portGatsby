@@ -35,7 +35,7 @@ class Projects extends Component {
                 onChange={this.onSelectChange}
               >
                 <option value="front-end">Front End</option>
-                <option value="back-end">Back End</option>
+                <option value="full-stack">Full Stack</option>
               </FormControl>
             </FormGroup>
           </div>
