@@ -16,13 +16,13 @@
   {
     "name": "Youtube No Adds ",
     "type": "front-end",
-    "description": "my version of youtube with adds removed",
+    "description": "my version of youtube with adds removed, fullstack coming soon",
     "img": "youtube.png",
     "url": "http://youtube-app-novideoadds.s3-website-us-east-1.amazonaws.com/"
   },
   {
     "name": "React Wedding WebSite",
-    "type": "front-end",
+    "type": "full-stack",
     "description": "Frist React Project",
     "img": "wedding.png",
     "url": "http://chase-val2019.s3-website-us-east-1.amazonaws.com"
@@ -64,7 +64,7 @@
   },
   {
     "name": "Oauth Login and Stripe Payment",
-    "type": "back-end",
+    "type": "full-stack",
     "description": "Uses Oauth for google login. Demonstrates Passport understand, along with tokens and Stripe API. Try out a charge with card number 4242-4242-4242-4242",
     "img": "api.png",
     "url": "https://reactexpnode.herokuapp.com/"
