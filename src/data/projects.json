@@ -3,7 +3,7 @@
     "name": "BrainFu** Visualizer",
     "type": "front-end",
     "description": "Coding challenge to build web application to parse BF** code and step through it. Complex state-management",
-    "img": "screen.png",
+    "img": "visualizer.png",
     "url": "http://bfcodingchallenge.s3-website-us-west-2.amazonaws.com/"
   },
   
@@ -11,14 +11,14 @@
     "name": "Quilt",
     "type": "full-stack",
     "description": "Fullstack (MERN) Hackathon Project. Sorts news by politcal party and color. uses react/redux/mongo/node",
-    "img": "screen.png",
+    "img": "quilt.png",
     "url": "https://quilt-2018.herokuapp.com/"
   },
     {
     "name": "Trip Quest",
     "type": "full-stack",
     "description": "Fullstack (MERN) Hackathon Project. Allows you to Interface your car with a webapp. can lock/unlock  and locate",
-    "img": "screen.png",
+    "img": "tripquest.png",
     "url": "https://polar-mesa-35819.herokuapp.com/"
   },
   {
