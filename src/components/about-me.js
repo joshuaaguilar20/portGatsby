@@ -21,23 +21,23 @@ const AboutMe = ({ profileImg, hobbyImgs }) => {
             <h3>My Current Plans</h3>
             <p>
             My goal as web developer is to help build applications that assist humanity. I want to help create more access to simple yet powerful code. I have always had a unique fascination with coding. After 5 years in the Emergency Department  I decided to chase my true passion of computer science. I quit my day job and started studying computer science daily. I could not afford a boot-camp so I spend every  day for 8 months coding, and finding mentors. I started by building every FreeCodeCamp project while simultaneously taking computer science, and algorithm courses . 
-            After building over 20 projects with guidance from a mentor I started contributing to open source projects. 
+            After building over 30 fullstack projects with guidance from a mentor I started contributing to open source projects. 
             I then got involved with the FCC community as a moderator and mentor. 
-            Shortly after I started taking projects for clients and helping tutor students who are new to CS.
-            After hearing feedback from other students I started an algorithms and data structures meet-up in northern California.   
+            Shortly after I started taking projects for clients, and helping tutor students who are new to CS.
+            After hearing feedback from students, I started an algorithms and data structures meet-up in northern California.   
             </p>
             <h4>Project's I am building</h4>
             <p>
               {" "}
-                I am currently working on building a django REST API with React on the front-end. 
+                I am currently working on building a fullstack youtube clone with login, and download functions. 
                 I assist with {" "}
                <a href="https://www.freecodecamp.com/" target="_blank" rel="noopener noreferrer">
                 FreeCodeCamp,
               </a>{" "}
               and help tutor new indivials in Javascript. I am currently assisting with the babel
-              open source project and a healthcare application in my spare time. I am also working on building 
-              applications for the GitHub Hackaton October 26th presented by FCC.  
-              
+              open source project, and the graphite blockchain application. This year I was able to compete in githubs 
+              hackathon, and we placed top 10.Shortly after I did sachacks, and presented a smart car project. I am currently
+              working on building NPM Packages, and commandline tools to improve my workflow. 
               
             </p>
             <p>
@@ -48,7 +48,7 @@ const AboutMe = ({ profileImg, hobbyImgs }) => {
                 rel="noopener noreferrer"
               >
                 {" "}
-                my first contributions to the open source community. 
+                my first contributions to the open source community. I  have contributed to 5 opensource projects in 2018.  
               </a>
                 
             </p>
@@ -61,7 +61,9 @@ const AboutMe = ({ profileImg, hobbyImgs }) => {
               <h5>Toolbox</h5>
               <p>
                 <b>Languages and Frameworks:</b> Javascript, HTML5, CSS,
-                ReactJS, Bootstrap, NodeJS, ExpressJS, MongoDB, SCSS (learning Python/Django). 
+                ReactJS, Bootstrap, NodeJS, ExpressJS, MongoDB, SCSS, REST-APIs, Postman, FireBase, Docker
+                Redis, HTML5, NPM ,Pythons Pip, Sockets IO, MongoDB, Sequel(SQL), Redux, Web Hooks, Ajax, BashShell Scriping,
+                Basic C, Nginix Load Balancing, Amazon S3/EC2 Web Services, Heroku, Docker
                 <br />
                 <b>IDE:</b> Microsoft VS Code
                 <br />
@@ -77,8 +79,8 @@ const AboutMe = ({ profileImg, hobbyImgs }) => {
             <div className="box">
               <h5>Learning</h5>
               <p>
-                Currently:Python Dejango and  Advanced Redux
-                <br /> On the radar: C++, Google Go
+                Currently:building commandline tools for NPM, and Freelance Production Websites. 
+                <br /> On the radar:Python and TypeScript
               </p>
             </div>
           </div>
@@ -87,12 +89,12 @@ const AboutMe = ({ profileImg, hobbyImgs }) => {
               <h5>Future Plans</h5>
               <p>
                 {" "}
-                1) Obtain Masters in Computer Science 
+                1) To build complex web applications, and servers on an enterprise level.  
                 <br />
-                2) Finish My MERN Stack Email Application
+                2) Obtain Masters/PHD in Computer Science.
                 <br />
-                3) Intergrate my developer skills with my current medical knowlege. 
-                <br /> 4) assist in creating better healthcare software for the world.
+                3) Intergrate my developer skills with my  medical knowlege. 
+                <br /> 4) assist in creating better healthcare software and user experience .
                 <br/>
                 5) Create better access to free learning online. 
               </p>
