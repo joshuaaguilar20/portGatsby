@@ -21,34 +21,39 @@ const AboutMe = ({ profileImg, hobbyImgs }) => {
             <h3>My Current Plans</h3>
             <p>
             My goal as web developer is to help build applications that assist humanity. I want to help create more access to simple yet powerful code. I have always had a unique fascination with coding. After 5 years in the Emergency Department  I decided to chase my true passion of computer science. I quit my day job and started studying computer science daily. I could not afford a boot-camp so I spend every  day for 8 months coding, and finding mentors. I started by building every FreeCodeCamp project while simultaneously taking computer science, and algorithm courses . 
-            After building over 30 fullstack projects with guidance from a Sr engineer. I started contributing to open source projects and 
+            After building  over 100  projects, taking 10 courses, and reading 50 books I was able to contribute. I started contributing to open source projects and 
             I  got involved with the FCC community as a moderator, and mentor. 
             Shortly after I started taking projects for clients, and helping tutor students who are new to CS.
-            After hearing feedback from students, I started an algorithms and data structures meet-up in northern California.   
+            After hearing feedback from students, I started an algorithms and data structures meet-up in northern California. After 
+            Learning Advanced algorithms I started attempting to build better healthcare applications. In December of 2018 I started working on building an open source EMR to improve our current  medical documentation. 
+    I was Hired By IBM in March of 
+            2019. I won the 2019 Medical hackathon for building an application that uses machine learning to document medication administrations. 
+            
             </p>
             <h4>Project's I am building</h4>
             <p>
               {" "}
-                I am currently working on building a fullstack youtube clone with login, and download functions. 
+                I am currently working on building an advanced AI bot for healthcare providers. I am also involved with helping code for sacramento and helping with local government applications.
+    
                 I assist with {" "}
                <a href="https://www.freecodecamp.com/" target="_blank" rel="noopener noreferrer">
                 FreeCodeCamp,
               </a>{" "}
               and help tutor new indivials in Javascript. I am currently assisting with the babel
-              open source project, and the graphite blockchain application. This year I was able to compete in githubs 
-              hackathon, and we placed top 10.Shortly after I did sachacks, and presented a smart car project. I am currently
+              open source project, open EMR project  and the graphite blockchain application. This year I was able to compete in githubs 
+              hackathon, sachacks,  Won Accenture Medical AI hackathon,  and we placed top 12 at facebook's F8. I am currently
               working on building NPM Packages, and commandline tools to improve my workflow. 
               
             </p>
             <p>
               I recently started{" "}
               <a
-                href="https://www.firsttimersonly.com/"
+                href="https://www.open-emr.org/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 {" "}
-                my first contributions to the open source community. I  have contributed to 5 opensource projects in 2018.  
+                to give my contributions to the open source community. I  have contributed to 10 opensource projects in 2018-2019.  
               </a>
                 
             </p>
@@ -79,8 +84,8 @@ const AboutMe = ({ profileImg, hobbyImgs }) => {
             <div className="box">
               <h5>Learning</h5>
               <p>
-                Currently:building commandline tools for NPM, and Freelance Production Websites. 
-                <br /> On the radar:Python and TypeScript
+                Currently:building commandline tools for NPM, Using AI to improve Developer workflow  and Freelance Production Websites. 
+                <br /> On the radar:Assembly, Advanced C++,  Ruby on Rails. 
               </p>
             </div>
           </div>
@@ -89,7 +94,7 @@ const AboutMe = ({ profileImg, hobbyImgs }) => {
               <h5>Future Plans</h5>
               <p>
                 {" "}
-                1) To build complex web applications, and servers on an enterprise level.  
+                1) To build complex web applications, to assist humanity  on an enterprise level.  
                 <br />
                 2) Obtain Masters/PHD in Computer Science.
                 <br />
