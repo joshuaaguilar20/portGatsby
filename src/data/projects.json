@@ -28,6 +28,7 @@
     "img": "screen.png",
     "url": "https://reactcalfinal.herokuapp.com/"
   },
+     
   {
     "name": "React Indecision",
     "type": "front-end",
@@ -90,5 +91,20 @@
     "description": "Uses Oauth for google login. Demonstrates Passport understand, along with tokens and Stripe API. Try out a charge with card number 4242-4242-4242-4242",
     "img": "api.png",
     "url": "https://reactexpnode.herokuapp.com/"
-  }
+  },
+     {
+     "name": "Infant CPR Application",
+    "type": "full-stack",
+    "description": "F8 Hackathon project to help humanity",
+    "img": "https://media.giphy.com/media/TKLqwUXcUW9qkhx8s0/giphy.gif",
+    "url": "https://d3qqsdgxjhgkiz.cloudfront.net"
+     },
+      {
+     "name": "AI healthcare Documentation Application",
+    "type": "full-stack",
+    "description": "School of AI Hackathon project to help humanity",
+    "img": "screen.png",
+    "url": "https://d3qqsdgxjhgkiz.cloudfront.net"
+     }
+   
 ]
